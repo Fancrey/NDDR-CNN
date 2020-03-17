@@ -72,6 +72,7 @@ If this code is helpful to your research, please consider citing [our paper](htt
 @inproceedings{gao2019nddr,
   title={NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction},
   author={Gao, Yuan and Ma, Jiayi and Zhao, Mingbo and Liu, Wei and Yuille, Alan L},
+  pages={3205--3214},
   booktitle = {CVPR},
   year={2019}
 }
